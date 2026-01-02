@@ -1,0 +1,42 @@
+.ctg{
+    border: 20px solid powderblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 800px;
+    margin-top: 20px;
+    box-shadow: 20px 10px 10px grey;
+    background-image: url(Aerial-view-of-Chittagong-Port.webp);
+    height: 300px;
+    background-size: cover;
+    
+}
+
+.Pctg{
+    border-radius: 30px;
+}
+
+.dhk{
+    border: 20px solid pink;
+    border-radius: 20px;
+    padding: 20px;
+    width: 800px;
+    margin-top: 20px;
+    box-shadow: 20px 10px 10px grey;
+    background-image: url(dhaka-bangladesh.jpg);
+    height: 300px;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    
+}
+
+.rng{
+    border: 20px solid royalblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 800px;
+    margin-top: 20px;
+    box-shadow: 20px 10px 10px grey;
+    background-image: url(Tajhat-Palace.png);
+    background-size: cover;
+    height: 300px;
+}

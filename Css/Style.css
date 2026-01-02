@@ -1,0 +1,25 @@
+.blog{
+    border: 20px solid palegoldenrod;
+    border-radius: 30px;
+    background-color: bisque;
+    font-size: larger;
+    font-weight: 700;
+}
+
+.Happy{
+    background-color:blanchedalmond;
+    border: 20px solid pink;
+    font-size: large;
+    border-radius: 40px;
+    padding: 20px;
+    font-weight: 900;
+    color:darkgoldenrod;
+}
+
+.css{
+    border: 20px dotted burlywood;
+    border-radius: 30px;
+    padding: 20px;
+    background-color: beige;
+    margin: 10px;
+}
